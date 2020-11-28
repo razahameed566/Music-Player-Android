@@ -17,7 +17,7 @@
         app:tabIndicatorFullWidth="true"
         app:tabIndicatorGravity="center"
         app:tabIndicatorHeight="40dp"
-        app:tabSelectedTextColor="#ffffff"
+        app:tabSelectedTextColor="#fffffff"
         android:background="#8c7b75"
         app:tabIndicator="@drawable/tab_indicator"
         />
