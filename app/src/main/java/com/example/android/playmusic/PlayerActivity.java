@@ -536,7 +536,7 @@ public class PlayerActivity extends AppCompatActivity implements MediaPlayer.OnC
 //            }
 //        });
 //
-//        imageView.startAnimation(animOut);
+//       
 //
 //
 //    }
